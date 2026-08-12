@@ -4,7 +4,7 @@ Reading and Watching Tracker App (Individual Project for CSC264 - Introduction t
 ## Tools Used
 ### Software
 - Visual Studio Code
-- node .js
+- node.js
 - react-native
 - expo
 - expo-go
