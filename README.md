@@ -6,7 +6,8 @@ Reading and Watching Tracker App (Individual Project for CSC264 - Introduction t
 - Visual Studio Code
 - node .js
 - react-native
-- Google Chrome
+- expo
+- expo-go
 
 ### Languages
 - TypeScript
